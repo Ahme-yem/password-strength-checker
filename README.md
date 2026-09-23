@@ -43,3 +43,16 @@ Output:
 ```text
 Score: 5
 Password Strength: Strong
+## Screenshots
+
+### Strong Password
+
+![Strong Password](strong-password.png)
+
+### Medium Password
+
+![Medium Password](medium-password.png)
+
+### Common Password
+
+![Common Password](common-password.png)
